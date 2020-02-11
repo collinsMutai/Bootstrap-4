@@ -4,7 +4,7 @@ body {
   height: 100%;
   width: 100%;
   font-family: "Poppins", sans-serif;
-  color: #222;
+  color: rgba(58, 209, 12, 0.267);
 }
 
 .navbar {
